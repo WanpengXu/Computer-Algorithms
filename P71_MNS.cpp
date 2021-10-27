@@ -19,7 +19,7 @@ void MNS(int pi[],int n,int **size){
 }
 
 void Traceback(int pi[],int **size,int n,int Net[],int &m){
-    int j=n;// 列坐标（下段接线柱）
+    int j=n;// 列坐标（下端接线柱）
     m=0;
     for(int i=n;i>1;i--){// 行坐标（上端接线柱）
         if(size[i][j]!=size[i-1][j]){
