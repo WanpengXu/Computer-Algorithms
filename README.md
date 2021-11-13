@@ -6,3 +6,5 @@
 2. 算法设计与分析B
 3. 算法导论
 4. 算法概论
+## 活动安排问题
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%B4%BB%E5%8A%A8%E5%AE%89%E6%8E%92%E9%97%AE%E9%A2%981.png)
