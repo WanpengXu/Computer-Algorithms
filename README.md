@@ -32,6 +32,16 @@
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C3.png)
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C4.png)
 
+## 电路布线
+### 例题
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E7%94%B5%E8%B7%AF%E5%B8%83%E7%BA%BF1.png)
+### 答案
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E7%94%B5%E8%B7%AF%E5%B8%83%E7%BA%BF2.png)
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E7%94%B5%E8%B7%AF%E5%B8%83%E7%BA%BF3.png)
+### 运行结果
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E7%94%B5%E8%B7%AF%E5%B8%83%E7%BA%BF4.png)
+
+
 ## 活动安排问题
 ### 例题
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%B4%BB%E5%8A%A8%E5%AE%89%E6%8E%92%E9%97%AE%E9%A2%981.png)
