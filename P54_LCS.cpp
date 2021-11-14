@@ -80,7 +80,7 @@ int main(){
     // char X[]="abcbdb";
     // char Y[]="acbbabdbb";
     char X[]={'A','B','C','B','D','A','B','\0'};
-    char Y[]={'B','D','C','A','B','A','\0'};// 这里不加结束符会栈溢出，X在Y的高地址方向，会被拼接到Y后
+    char Y[]={'B','D','C','A','B','A','\0'};// 这里不加结束符会栈溢出，X在Y的高地址方向（栈底方向），会被拼接到Y后
     const int lenX=strlen(X);
     const int lenY=strlen(Y);
     // printf("%p\n%p\n...\n%p\n%p\n",Y,Y+1,X,X+1);// 栈示意图
