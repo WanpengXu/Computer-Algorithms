@@ -23,6 +23,15 @@
 ### 运行结果
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%973.png)
 
+## 最大子段和
+### 例题
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C1.png)
+### 答案
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C2.png)
+### 运行结果
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C3.png)
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C4.png)
+
 ## 活动安排问题
 ### 例题
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E6%B4%BB%E5%8A%A8%E5%AE%89%E6%8E%92%E9%97%AE%E9%A2%981.png)
