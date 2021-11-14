@@ -41,6 +41,13 @@
 ### 运行结果
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E7%94%B5%E8%B7%AF%E5%B8%83%E7%BA%BF4.png)
 
+## 0-1背包问题
+### 例题
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/0-1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%981.png)
+### 答案
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/0-1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%982.png)
+### 运行结果
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/0-1%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%983.png)
 
 ## 活动安排问题
 ### 例题
