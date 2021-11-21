@@ -39,7 +39,18 @@ int RandomizedPartition(Type a[],int p,int r){
 template <typename Type>
 void RandomizedQuickSort(Type a[],int p,int r){
     if(p<r){
+        printf("Sorting: {%d",a[p]);
+        for(int i=p+1;i<=r;i++)
+            printf(",%d",a[i]);
+        printf("}\n");
+        
         int q=RandomizedPartition(a,p,r);
+
+        printf("Sorted:  {%d",a[p]);
+        for(int i=p+1;i<=r;i++)
+            printf(",%d",a[i]);
+        printf("}\n");
+
         RandomizedQuickSort(a,p,q-1);
         RandomizedQuickSort(a,q+1,r);
     }
@@ -64,9 +75,14 @@ int main(){
     // int *a=new int[n+1]{0,8,4,1,7,11,5,6,9};  // C++11
     // int a[n+1]={0,8,4,1,7,11,5,6,9};  // C99
 
+    printf("Original a={%d",a[1]);
+    for(int i=2;i<=n;i++)
+        printf(",%d",a[i]);
+    printf("}\n\n");
+
     RandomizedQuickSort(a,1,n);
 
-    printf("a={%d",a[1]);
+    printf("\nResult a={%d",a[1]);
     for(int i=2;i<=n;i++)
         printf(",%d",a[i]);
     printf("}");
