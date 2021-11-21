@@ -15,6 +15,7 @@
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F2.png)
 ### 运行结果
 ![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F3.png)
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F4.png)
 
 ## Chap3 动态规划
 ## 矩阵连乘问题
