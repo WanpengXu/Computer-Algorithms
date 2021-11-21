@@ -24,9 +24,14 @@ int Partition(Type a[],int p,int r){
 template <typename Type>
 void QuickSort(Type a[],int p,int r){
     if(p<r){
+        printf("Sorting:{%d",a[p]);
+        for(int i=p+1;i<=r;i++)
+            printf(",%d",a[i]);
+        printf("}\n");
+
         int q=Partition(a,p,r);
 
-        printf("Sorting:{%d",a[p]);
+        printf("Sorted:{%d",a[p]);
         for(int i=p+1;i<=r;i++)
             printf(",%d",a[i]);
         printf("}\n");
