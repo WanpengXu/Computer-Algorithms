@@ -7,6 +7,15 @@
 3. 算法导论
 4. 算法概论
 
+## Chap2 递归与分治策略
+## 快速排序
+### 例题
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F1.png)
+### 答案
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F2.png)
+### 运行结果
+![Image text](https://github.com/AoiDarcy/Computer-Algorithms/blob/main/README.assets/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F3.png)
+
 ## Chap3 动态规划
 ## 矩阵连乘问题
 ### 例题
