@@ -39,8 +39,11 @@ bool PrintMatrixFromOne(int **m,int r,int c){
     return true;
 }
 int main(){
-    int p[]={30,35,15,5,10,20,25};
-    const int n=6;
+    // const int n=6;
+    // int p[n+1]={30,35,15,5,10,20,25};
+    const int n=5;
+    int p[n+1]={20,30,50,10,35,25};
+    // int p[n+1]={4,6,10,2,7,5};
     // m和n忽略0行0列
     int m[n+1][n+1]={};
     int *pm[n+1];
@@ -53,6 +56,6 @@ int main(){
     MatrixChain(p,n,pm,ps);
     PrintMatrixFromOne(pm,n,n);
     PrintMatrixFromOne(ps,n,n);
-    Traceback(1,6,ps);
+    Traceback(1,n,ps);
     return 0;
 }
